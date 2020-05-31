@@ -25,7 +25,7 @@ The user should be able to:
   * View multiple the combined weight of multiple exercises on the `stats` page.
 
 ## Deployed Link
-[Deployed Application])
+[Deployed Application](https://git.heroku.com/fit-monitor.git)
 
 ## Screenshots
 ![Fitness Tracker Screenshot](./public/fitnessScreen.png)
